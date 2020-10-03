@@ -154,7 +154,7 @@
                   <div class="head"></div>
                 </div>  
                   <div class="logo-github-small">
-                    <a href=""></a>
+                    <a href="https://github.com/LanceVaflor/CLE1"</a>
                     <div class="ear-one-left"></div>
                     <div class="ear-one-none"></div>
                     <div class="ear-one-right"></div>
