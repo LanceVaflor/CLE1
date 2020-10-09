@@ -38,13 +38,6 @@
                     <div id=helmet-bottom-right></div>
                     <div id=helmet-bottom-right-inside></div>
                 </div>
-
-                <div id="nav">
-                    <a href="lightsaber.html" id="lightsabers">Lightsabers</a>
-                    <a href="blasters.html" id="blasters">Blasters</a>
-                    <a href="archive.html" id="archive">Jedi Archive</a>
-                    <a href="galaxy.html" id="galaxy">Galaxies</a> 
-                </div>
              </header>
             </div>
             <div class = "content">
