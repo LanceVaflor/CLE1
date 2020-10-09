@@ -5,7 +5,7 @@
     font-size: 75px;
     transform: translate(5px,0px);
     text-align: center;
-    animation: float1 1.5s linear infinite;
+    animation: float1 0.5s linear infinite;
 
 }
 
